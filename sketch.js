@@ -2,7 +2,7 @@ var ninja;
 
 function setup() {
   createCanvas(800,400);
-  ninja = loadAnimation("assets/Dead_000","assets/Dead_009");
+  ninja = loadAnimation("assets/Dead_000.png","assets/Dead_009.png");
  // createSprite(400, 200, 50, 50);
 }
 

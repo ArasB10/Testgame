@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background(0,0);
+  background(0);
   animation(back, 300, 100);  
   //drawSprites();
 }

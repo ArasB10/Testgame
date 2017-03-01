@@ -8,6 +8,6 @@ function setup() {
 
 function draw() {
   background(200);
-  animation(ninja, 300, 100);  
+  //animation(ninja, 300, 100);  
   //drawSprites();
 }

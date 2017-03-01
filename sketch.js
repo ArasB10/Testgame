@@ -13,6 +13,6 @@ function draw() {
   //background(200);
   text("all good",50,50);
   image(mimage, 100,100,50,50);
-  animation(ninja, 400, 400);  
+  //animation(ninja, 400, 400);  
   //drawSprites();
 }

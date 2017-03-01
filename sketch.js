@@ -8,7 +8,8 @@ function setup() {
 }
 
 function draw() {
-  background(200);
-  animation(ninja, 100, 100);  
+  //background(200);
+  text("all good",50,50);
+  animation(ninja, 400, 400);  
   //drawSprites();
 }
